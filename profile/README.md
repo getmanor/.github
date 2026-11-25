@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mymanor.click"><img src="banner.png" alt="MANOR — A well-run home." width="100%"></a>
+  <a href="https://mymanor.click"><img src="https://raw.githubusercontent.com/getmanor/.github/main/profile/banner.png" alt="MANOR — A well-run home." width="100%"></a>
 </p>
 
 MANOR puts your cameras, alarm and smart home in one app. An edge box in your own home runs the cameras and devices, so live video stays on your network.
